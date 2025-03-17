@@ -35,7 +35,7 @@
 ---
 
 ### 📌 Featured Projects  
-- - 🔹 **[Custom WordPress Themes & Plugins](https://github.com/emmanuelmatewere/WordPress-Projects)** – Custom WordPress development for dynamic websites.  
+- 🔹 **[Custom WordPress Themes & Plugins](https://github.com/emmanuelmatewere/WordPress-Projects)** – Custom WordPress development for dynamic websites.  
 - 🔹 **[Gym Management System](https://github.com/emmanuelmatewere/Gym-Management-System)** – A PHP & MySQL-based system to manage gym memberships, payments, and attendance.  
 - 🔹 **[Help Desk Management System](https://github.com/emmanuelmatewere/Help-Desk-Management-System)** – A ticketing system for IT support and customer service.  
 - 🔹 **[Sales & Inventory System](https://github.com/emmanuelmatewere/Sales-and-Inventory-System)** – A retail management system built with PHP and MySQL.  
@@ -47,7 +47,7 @@
 
 ### 📫 Get in Touch  
 [![Email](https://img.shields.io/badge/Email-emzomatewere%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emzomatewere@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+265995014217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265994167753/ 0882944267)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+265994167753-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265994167753)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Matewere-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-matewere)  
 
 ---
