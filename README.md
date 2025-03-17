@@ -35,9 +35,13 @@
 ---
 
 ### 📌 Featured Projects  
-- 🔹 **[Pothole Detection System](https://github.com/emmanuelmatewere/Pothole-Detection-System)** – AI-based road defect detection using YOLOv8.  
-- 🔹 **[Digital Banking Solutions](https://github.com/emmanuelmatewere/Digital-Banking-Solutions)** – Secure transaction processing systems for financial institutions.  
-- 🔹 **[Data Analytics Portfolio](https://github.com/emmanuelmatewere/Data-Analytics-Portfolio)** – Collection of data analysis projects using Python and R.  
+- - 🔹 **[Custom WordPress Themes & Plugins](https://github.com/emmanuelmatewere/WordPress-Projects)** – Custom WordPress development for dynamic websites.  
+- 🔹 **[Gym Management System](https://github.com/emmanuelmatewere/Gym-Management-System)** – A PHP & MySQL-based system to manage gym memberships, payments, and attendance.  
+- 🔹 **[Help Desk Management System](https://github.com/emmanuelmatewere/Help-Desk-Management-System)** – A ticketing system for IT support and customer service.  
+- 🔹 **[Sales & Inventory System](https://github.com/emmanuelmatewere/Sales-and-Inventory-System)** – A retail management system built with PHP and MySQL.  
+- 🔹 **[Social Media Campaign Website](https://github.com/emmanuelmatewere/Social-Media-Campaign)** – A platform for managing and analyzing digital marketing campaigns.  
+- 🔹 **[Dermatology Services Management System (DSMS)](https://github.com/emmanuelmatewere/Dermatology-Services-Management-System)** – A healthcare management system for dermatology clinics.  
+
 
 ---
 
