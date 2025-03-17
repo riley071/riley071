@@ -43,7 +43,7 @@
 
 ### 📫 Get in Touch  
 [![Email](https://img.shields.io/badge/Email-emzomatewere%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emzomatewere@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+265995014217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265995014217)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+265995014217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265994167753/ 0882944267)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Matewere-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-matewere)  
 
 ---
