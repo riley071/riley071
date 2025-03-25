@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,coding" alt="Banner" width="100%"/>
+
   <br>👋 Hi, I'm Emmanuel Matewere
 </h1>
 
