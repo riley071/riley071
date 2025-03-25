@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Emmanuel Matewere</h1>
 
 <p align="center">
-🚀 Software Developer | Data Analyst | AI Enthusiast  
+🚀 Web Developer | Ui and Ux | AI Enthusiast  
 📍 Blantyre, Malawi  
 </p>
 
