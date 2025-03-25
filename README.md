@@ -31,12 +31,11 @@
 ---
 
 ### 📌 Featured Projects  
-- 🔹 **[Gym Management System](https://github.com/emmanuelmatewere/Gym-Management-System)** – A PHP & MySQL-based system to manage gym memberships, payments, and attendance.
--
-- - 🔹 **[Help Desk Management System](https://github.com/emmanuelmatewere/Help-Desk-Management-System)** – A ticketing system for IT support and customer service.  
-- 🔹 **[Sales & Inventory System](https://github.com/emmanuelmatewere/Sales-and-Inventory-System)** – A retail management system built with PHP and MySQL.  
-- 🔹 **[Social Media Campaign Website](https://github.com/emmanuelmatewere/Social-Media-Campaign)** – A platform for managing and analyzing digital marketing campaigns.  
-- 🔹 **[Dermatology Services Management System (DSMS)](https://github.com/emmanuelmatewere/Dermatology-Services-Management-System)** – A healthcare management system for dermatology clinics.  
+- 🔹 **[Gym Management System](https://github.com/riley071/Gym-Management-System)** – A PHP & MySQL-based system to manage gym memberships, payments, and attendance.
+- 🔹 **[Help Desk Management System](https://github.com/riley071/Help-Desk-Management-System)** – A ticketing system for IT support and customer service.  
+- 🔹 **[Sales & Inventory System](https://github.com/riley071/Sales-and-Inventory-System)** – A retail management system built with PHP and MySQL.  
+- 🔹 **[Social Media Campaign Website](https://github.com/riley071/Social-Media-Campaign)** – A platform for managing and analyzing digital marketing campaigns.  
+- 🔹 **[Dermatology Services Management System (DSMS)](https://github.com/riley071/Dermatology-Services-Management-System)** – A healthcare management system for dermatology clinics.  
 
 
 ---
