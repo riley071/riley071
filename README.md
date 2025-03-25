@@ -1,42 +1,57 @@
-<h1 align="center">👋 Hi, I'm Emmanuel Matewere</h1>
+<h1 align="center">
+  <img src="https://source.unsplash.com/1600x400/?technology,coding" alt="Banner" width="100%"/>
+  <br>👋 Hi, I'm Emmanuel Matewere
+</h1>
 
 <p align="center">
-🚀 Web Developer | Ui and Ux | AI Enthusiast  
+🚀 Web Developer | UI/UX | AI Enthusiast  
 📍 Blantyre, Malawi  
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Computer Systems Graduate  
+- 🎓 **Computer Systems Graduate**  
 - 🔍 Passionate about **AI, Web Development, and Digital Banking**  
 - ⚡ Currently learning **React.js** & enhancing my **AI skills**  
-
----
-
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
----
-
-
+- 🎯 Always eager to solve real-world problems with code  
+- ☕ Coffee lover & late-night coder  
+- 🎵 Enjoys coding with lo-fi beats in the background  
 
 ---
 
 ### 📌 Featured Projects  
-- 🔹 **[Gym Management System](https://github.com/riley071/Gym-Management-System)** – A PHP & MySQL-based system to manage gym memberships, payments, and attendance.
-- 🔹 **[Help Desk Management System](https://github.com/riley071/Help-Desk-Management-System)** – A ticketing system for IT support and customer service.  
-- 🔹 **[Sales & Inventory System](https://github.com/riley071/Sales-and-Inventory-System)** – A retail management system built with PHP and MySQL.  
-- 🔹 **[Social Media Campaign Website](https://github.com/riley071/Social-Media-Campaign)** – A platform for managing and analyzing digital marketing campaigns.  
-- 🔹 **[Dermatology Services Management System (DSMS)](https://github.com/riley071/Dermatology-Services-Management-System)** – A healthcare management system for dermatology clinics.  
+🔹 **[Gym Management System](https://github.com/riley071/Gym-Management-System)** – A PHP & MySQL-based system to manage gym memberships, payments, and attendance. Features:
+  - Membership subscription management  
+  - Attendance tracking with QR codes  
+  - Automated billing and reports  
+  
+🔹 **[Help Desk Management System](https://github.com/riley071/Help-Desk-Management-System)** – A ticketing system for IT support and customer service. Features:
+  - User-friendly ticket creation and tracking  
+  - Real-time notifications  
+  - AI-driven support recommendations  
+  
+🔹 **[Sales & Inventory System](https://github.com/riley071/Sales-and-Inventory-System)** – A retail management system built with PHP and MySQL. Features:
+  - Barcode-based product management  
+  - Sales analytics dashboard  
+  - Multi-user role access control  
+  
+🔹 **[Social Media Campaign Website](https://github.com/riley071/Social-Media-Campaign)** – A platform for managing and analyzing digital marketing campaigns. Features:
+  - Social media post scheduling  
+  - Engagement tracking and analytics  
+  - Ad campaign performance insights  
+  
+🔹 **[Dermatology Services Management System (DSMS)](https://github.com/riley071/Dermatology-Services-Management-System)** – A healthcare management system for dermatology clinics. Features:
+  - Patient record management  
+  - Appointment scheduling system  
+  - Medical prescription tracking  
 
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riley071&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
 ---
 
@@ -47,4 +62,4 @@
 
 ---
 
-⭐ **Let's Connect & Build Together!**
+⭐ **Let's Connect & Build Together!** 🚀
