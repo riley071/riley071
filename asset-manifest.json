@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/riley071/emmanuelmatewere/static/css/main.947c9516.css",
+    "main.js": "/riley071/emmanuelmatewere/static/js/main.c1c2cad2.js",
+    "static/js/453.9415623e.chunk.js": "/riley071/emmanuelmatewere/static/js/453.9415623e.chunk.js",
+    "static/media/port.png": "/riley071/emmanuelmatewere/static/media/port.f8eb3f5280cd80c59872.png",
+    "static/media/wild.png": "/riley071/emmanuelmatewere/static/media/wild.2580a29fb638a28cabf7.png",
+    "static/media/blog.png": "/riley071/emmanuelmatewere/static/media/blog.707eeaba356c4ce42a3c.png",
+    "static/media/bg-light.png": "/riley071/emmanuelmatewere/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/riley071/emmanuelmatewere/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/coun.png": "/riley071/emmanuelmatewere/static/media/coun.d69e9be3c60b1a31f304.png",
+    "static/media/desk.jpg": "/riley071/emmanuelmatewere/static/media/desk.da8664e4bae51a4f1395.jpg",
+    "static/media/member.png": "/riley071/emmanuelmatewere/static/media/member.df0b197dec5b48d6aa41.png",
+    "index.html": "/riley071/emmanuelmatewere/index.html",
+    "main.947c9516.css.map": "/riley071/emmanuelmatewere/static/css/main.947c9516.css.map",
+    "main.c1c2cad2.js.map": "/riley071/emmanuelmatewere/static/js/main.c1c2cad2.js.map",
+    "453.9415623e.chunk.js.map": "/riley071/emmanuelmatewere/static/js/453.9415623e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947c9516.css",
+    "static/js/main.c1c2cad2.js"
+  ]
+}
