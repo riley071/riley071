@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Malawi flag background -->
+  <rect width="64" height="64" fill="#006a4e" /> <!-- Green bottom -->
+  <rect width="64" height="42.67" y="0" fill="#ce1126" /> <!-- Red middle -->
+  <rect width="64" height="21.33" y="0" fill="#000000" /> <!-- Black top -->
+
+  <!-- Rising sun (simplified) -->
+  <circle cx="32" cy="21.33" r="10" fill="#ce1126" />
+  <!-- Sun rays -->
+  <g fill="#ce1126">
+    <path d="M32 9.5 30.8 6.5h2.4L32 9.5z" />
+    <path d="M27.3 10.6 25.4 8.1l2.1-1.2  -0.2 3.7z" />
+    <path d="M36.7 10.6 38.6 8.1l-2.1-1.2 0.2 3.7z" />
+    <path d="M23.6 13.6 21.3 11.8l2-1.7 0.3 3.5z" />
+    <path d="M40.4 13.6 42.7 11.8l-2-1.7-0.3 3.5z" />
+    <path d="M21.2 17.5 18.7 16.3l1.6-2.3 0.9 3.5z" />
+    <path d="M42.8 17.5 45.3 16.3l-1.6-2.3-0.9 3.5z" />
+  </g>
+</svg>
+
+

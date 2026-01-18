@@ -1,0 +1,234 @@
+@import "@fontsource/outfit/400.css";
+@import "@fontsource/outfit/500.css";
+@import "@fontsource/outfit/600.css";
+@import "@fontsource/outfit/700.css";
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* NSIMABEATS Design System - Dark Theme with Gold Accents */
+
+@layer base {
+  :root {
+    /* Core palette - Dark with Gold */
+    --background: 220 20% 4%;
+    --foreground: 45 20% 95%;
+
+    --card: 220 20% 7%;
+    --card-foreground: 45 20% 95%;
+
+    --popover: 220 20% 6%;
+    --popover-foreground: 45 20% 95%;
+
+    /* Gold/Amber Primary */
+    --primary: 38 92% 50%;
+    --primary-foreground: 220 20% 4%;
+
+    /* Muted gold for secondary actions */
+    --secondary: 220 15% 15%;
+    --secondary-foreground: 45 15% 85%;
+
+    --muted: 220 15% 12%;
+    --muted-foreground: 220 10% 55%;
+
+    /* Warm accent */
+    --accent: 25 95% 53%;
+    --accent-foreground: 220 20% 4%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 15% 15%;
+    --input: 220 15% 12%;
+    --ring: 38 92% 50%;
+
+    --radius: 0.75rem;
+
+    /* Custom colors for Nsimabeats */
+    --gold: 38 92% 50%;
+    --gold-light: 43 96% 56%;
+    --gold-dark: 32 88% 42%;
+    --amber: 25 95% 53%;
+    --surface: 220 20% 10%;
+    --surface-elevated: 220 18% 13%;
+    --glow-gold: 38 100% 50%;
+
+    /* Gradients */
+    --gradient-gold: linear-gradient(135deg, hsl(38, 92%, 50%), hsl(25, 95%, 53%));
+    --gradient-gold-subtle: linear-gradient(135deg, hsl(38, 92%, 50%) 0%, hsl(32, 88%, 42%) 100%);
+    --gradient-dark: linear-gradient(180deg, hsl(220, 20%, 7%) 0%, hsl(220, 20%, 4%) 100%);
+    --gradient-card: linear-gradient(145deg, hsl(220, 20%, 10%) 0%, hsl(220, 20%, 7%) 100%);
+    --gradient-hero: linear-gradient(180deg, transparent 0%, hsl(220, 20%, 4%) 100%);
+
+    /* Shadows */
+    --shadow-sm: 0 2px 8px -2px hsl(0 0% 0% / 0.4);
+    --shadow-md: 0 8px 24px -4px hsl(0 0% 0% / 0.5);
+    --shadow-lg: 0 16px 48px -8px hsl(0 0% 0% / 0.6);
+    --shadow-glow: 0 0 40px -8px hsl(38, 92%, 50%, 0.4);
+    --shadow-glow-strong: 0 0 60px -4px hsl(38, 92%, 50%, 0.6);
+
+    /* Sidebar */
+    --sidebar-background: 220 20% 6%;
+    --sidebar-foreground: 45 20% 90%;
+    --sidebar-primary: 38 92% 50%;
+    --sidebar-primary-foreground: 220 20% 4%;
+    --sidebar-accent: 220 15% 12%;
+    --sidebar-accent-foreground: 45 20% 90%;
+    --sidebar-border: 220 15% 15%;
+    --sidebar-ring: 38 92% 50%;
+  }
+
+  .dark {
+    /* Same as root - dark by default */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', system-ui, sans-serif;
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  /* Beat card hover effect */
+  .beat-card {
+    @apply relative overflow-hidden rounded-xl bg-card border border-border transition-all duration-300;
+  }
+  
+  .beat-card:hover {
+    @apply border-primary/30;
+    box-shadow: var(--shadow-glow);
+    transform: translateY(-4px);
+  }
+
+  /* Waveform animation */
+  .waveform-bar {
+    @apply bg-primary rounded-full transition-all duration-150;
+    animation: waveform 1s ease-in-out infinite;
+  }
+
+  @keyframes waveform {
+    0%, 100% { transform: scaleY(0.4); }
+    50% { transform: scaleY(1); }
+  }
+
+  /* Gold gradient text */
+  .text-gradient-gold {
+    background: var(--gradient-gold);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Glow button effect */
+  .btn-glow {
+    @apply relative overflow-hidden;
+  }
+
+  .btn-glow::before {
+    content: '';
+    @apply absolute inset-0 opacity-0 transition-opacity duration-300;
+    background: var(--gradient-gold);
+    filter: blur(20px);
+    z-index: -1;
+  }
+
+  .btn-glow:hover::before {
+    @apply opacity-50;
+  }
+
+  /* Glass effect */
+  .glass {
+    @apply bg-card/80 backdrop-blur-xl border border-border/50;
+  }
+
+  /* Audio player progress */
+  .audio-progress {
+    @apply h-1 bg-muted rounded-full overflow-hidden;
+  }
+
+  .audio-progress-fill {
+    @apply h-full bg-primary rounded-full transition-all duration-100;
+  }
+
+  /* Animated gradient border */
+  .gradient-border {
+    @apply relative;
+  }
+
+  .gradient-border::before {
+    content: '';
+    @apply absolute -inset-[1px] rounded-xl opacity-0 transition-opacity duration-300;
+    background: var(--gradient-gold);
+    z-index: -1;
+  }
+
+  .gradient-border:hover::before {
+    @apply opacity-100;
+  }
+
+  /* Tag/badge styles */
+  .tag {
+    @apply inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-muted text-muted-foreground;
+  }
+
+  .tag-gold {
+    @apply bg-primary/15 text-primary;
+  }
+}
+
+@layer utilities {
+  /* Custom animations */
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+
+  .animate-pulse-slow {
+    animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .animate-glow {
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+
+  @keyframes glow {
+    from { box-shadow: 0 0 20px -8px hsl(38, 92%, 50%, 0.4); }
+    to { box-shadow: 0 0 40px -4px hsl(38, 92%, 50%, 0.6); }
+  }
+
+  /* Scrollbar styling */
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    @apply bg-muted rounded-full;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply bg-border rounded-full hover:bg-muted-foreground/30;
+  }
+}
